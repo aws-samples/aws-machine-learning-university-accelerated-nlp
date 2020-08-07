@@ -1,4 +1,4 @@
-## AWS Machine Learning Accelerated Natural Language Processing Class
+## Machine Learning University Accelerated Natural Language Processing Class
 
 This content is based on the Machine Learning University (MLU) Accelerated Natural Language Processing class. Our mission is to make Machine Learning accessible to everyone. We believe Machine Learning will be a tool for success for many people in their careers. We teach Machine Learning courses on different topics. This class is designed to help you get started with Natural Language Processing, learn widely used techniques and apply them on real-world problems.
 
