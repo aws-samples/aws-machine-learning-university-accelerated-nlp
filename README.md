@@ -1,8 +1,8 @@
-![logo](data/MLU_Logo.png)
+![src="/storage/emulated/0/DCIM/Restored/Pic_1561139115666.jpg
 ## Machine Learning University: Accelerated Natural Language Processing Class
 
-This repository contains __slides__, __notebooks__ and __datasets__ for the __Machine Learning University (MLU) Accelerated Natural Language Processing__ class. Our mission is to make Machine Learning accessible to everyone. We have courses available across many topics of machine learning and believe knowledge of ML can be a key enabler for success. This class is designed to help you get started with Natural Language Processing (NLP), learn widely used techniques and apply them on real-world problems.
-
+This repository contains __slides__, __notebooks__ and __datasets__ for the __Machine Learning University (MLU) Accelerated Natural Language Processing__ class. Our mission is to make Machine Learning accessible to everyone. We have courses available across many topics of machine learning and believe knowledge of ML can be a key enabler for success. This class is designed to help you get started with Natural Language Processing (NLP), learn widely used techniques and apply them on real-world problems need gbest 
+canva dan auta
 ## YouTube
 Watch all NLP class video recordings in this [YouTube playlist](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw) from our [YouTube channel](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists).
 
