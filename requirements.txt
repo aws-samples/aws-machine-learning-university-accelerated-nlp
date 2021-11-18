@@ -1,9 +1,9 @@
 pip==21.3.1
-torch==1.8.1
-torchtext==0.9.1
-mxnet==1.8.0
+torch==1.10.0
+torchtext==0.11.0
+mxnet==1.8.0.post0
 gluonnlp==0.9.1
-nltk==3.6.2
+nltk==3.6.5
 pandas==1.1.5
-scikit-learn==0.24.1
+scikit-learn==0.24.2
 numpy==1.19.5
