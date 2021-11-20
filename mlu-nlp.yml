@@ -1,0 +1,16 @@
+name: ml-nlp
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - pip==21.3.1
+    - torch==1.10.0
+    - torchtext==0.11.0
+    - mxnet==1.8.0.post0
+    - gluonnlp==0.9.1
+    - nltk==3.6.5
+    - pandas==1.1.5
+    - scikit-learn==0.24.2
+    - numpy==1.19.5
+    - matplotlib==3.3.4
+    - ipykernel==5.5.6
