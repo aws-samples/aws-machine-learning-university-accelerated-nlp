@@ -1,4 +1,4 @@
-name: ml-nlp
+name: mlu-nlp
 dependencies:
   - python=3.9
   - pip
