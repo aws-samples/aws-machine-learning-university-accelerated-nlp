@@ -9,5 +9,5 @@ scikit-learn==1.0.0
 numpy==1.22.2
 matplotlib==3.3.4
 seaborn==0.11.2
-jupyter-server==2.1.0
+jupyter-server==2.7.2
 ipykernel==6.20.2
