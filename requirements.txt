@@ -1,4 +1,4 @@
-pip==22.3.0
+pip==23.3
 torch==1.13.1
 torchtext==0.14.1
 mxnet==1.9.1
