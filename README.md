@@ -27,16 +27,14 @@ Lecture 2
 | Regression Models |Linear Regression [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Linear-Regression.ipynb) <br> Logistic Regression [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Logistic-Regression.ipynb) |
 | Optimization-Regularization | - |
 | Hyperparameter Tuning | - |
-| AWS AI/ML Services |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Sagemaker.ipynb) |
 | Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Final-Project.ipynb)|
 
 Lecture 3
 | title | studio lab |
 | :---: | ---: |
-| Neural Networks | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Neural-Networks.ipynb) |
+| Neural Networks | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Neural-Networks-PyTorch.ipynb) |
 | Word Embeddings | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Word-Vectors.ipynb)|
-| Recurrent Neural Networks (RNN) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github//aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Recurrent-Neural-Networks.ipynb) |
-| Transformers |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Neural-Networks.ipynb) |
+| Recurrent Neural Networks (RNN) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github//aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Recurrent-Neural-Networks-PyTorch.ipynb) |
 | Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Final-Project.ipynb)|
 
 
