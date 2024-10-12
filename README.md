@@ -23,7 +23,7 @@ Lecture 1
 Lecture 2
 | title | studio lab |
 | :---: | ---: |
-| Tree-based Models | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github//aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Tree-Models.ipynb)|
+| Tree-based Models | Tree Models [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github//aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Tree-Models.ipynb)|
 | Regression Models |Linear Regression [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Linear-Regression.ipynb) <br> Logistic Regression [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Logistic-Regression.ipynb) |
 | Optimization-Regularization | - |
 | Hyperparameter Tuning | - |
