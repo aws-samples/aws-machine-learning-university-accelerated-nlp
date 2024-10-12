@@ -15,33 +15,31 @@ Lecture 1
 | title | studio lab |
 | :---: | ---: |
 | Introduction to ML | - |
-| Intro to NLP and Text Processing | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture1-Text-Process.ipynb)|
-| Bag of Words (BoW) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture1-BOW.ipynb) |
-| K Nearest Neighbors (KNN) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture1-KNN.ipynb) |
-| Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture1-Final-Project.ipynb)
+| Intro to NLP and Text Processing | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture1-Text-Process.ipynb)|
+| Bag of Words (BoW) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture1-BOW.ipynb) |
+| K Nearest Neighbors (KNN) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture1-KNN.ipynb) |
+| Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture1-Final-Project.ipynb)
 
 Lecture 2
 | title | studio lab |
 | :---: | ---: |
-| Tree-based Models | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github//aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Tree-Models.ipynb)|
-| Regression Models |Linear Regression [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Linear-Regression.ipynb) <br> Logistic Regression [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Logistic-Regression.ipynb) |
+| Tree-based Models | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github//aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture2-Tree-Models.ipynb)|
+| Regression Models |Linear Regression [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture2-Linear-Regression.ipynb) <br> Logistic Regression [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture2-Logistic-Regression.ipynb) |
 | Optimization-Regularization | - |
 | Hyperparameter Tuning | - |
-| AWS AI/ML Services |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Sagemaker.ipynb) |
-| Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture2-Final-Project.ipynb)|
+| Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture2-Final-Project.ipynb)|
 
 Lecture 3
 | title | studio lab |
 | :---: | ---: |
-| Neural Networks | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Neural-Networks.ipynb) |
-| Word Embeddings | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Word-Vectors.ipynb)|
-| Recurrent Neural Networks (RNN) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github//aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Recurrent-Neural-Networks.ipynb) |
-| Transformers |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Neural-Networks.ipynb) |
-| Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture3-Final-Project.ipynb)|
+| Neural Networks | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture3-Neural-Networks-PyTorch.ipynb) |
+| Word Embeddings | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture3-Word-Vectors.ipynb)|
+| Recurrent Neural Networks (RNN) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github//aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture3-Recurrent-Neural-Networks-PyTorch.ipynb) |
+| Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture3-Final-Project.ipynb)|
 
 
 
-__Final Project:__ Practice working with a "real-world" NLP dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/tree/master/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/master/notebooks/MLA-NLP-Lecture1-Final-Project.ipynb).
+__Final Project:__ Practice working with a "real-world" NLP dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/tree/main/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp/blob/main/notebooks/MLA-NLP-Lecture1-Final-Project.ipynb).
 
 ## Interactives/Visuals
 Interested in visual, interactive explanations of core machine learning concepts? Check out our [MLU-Explain articles](https://mlu-explain.github.io/) to learn at your own pace! 
