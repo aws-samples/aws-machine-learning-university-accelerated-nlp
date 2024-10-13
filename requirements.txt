@@ -1,13 +1,1 @@
-pip==23.3
-torch==1.13.1
-torchtext==0.14.1
-mxnet==1.9.1
-gluonnlp==0.9.1
-nltk==3.8.1
-pandas==1.1.5
-scikit-learn==1.0.0
-numpy==1.22.2
-matplotlib==3.3.4
-seaborn==0.11.2
-jupyter-server==2.1.0
-ipykernel==6.20.2
+torchtext==0.15.1
